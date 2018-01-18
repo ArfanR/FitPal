@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Gold&apos;s Gym</string>
+		<key>latitude</key>
+		<real>34.048929</real>
+		<key>longitude</key>
+		<real>-118.261614</real>
+		<key>distance</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Equinox</string>
+		<key>latitude</key>
+		<real>34.051774</real>
+		<key>longitude</key>
+		<real>-118.255182</real>
+		<key>distance</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Planet Fitness</string>
+		<key>latitude</key>
+		<real>34.047758</real>
+		<key>longitude</key>
+		<real>-118.338586</real>
+		<key>distance</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Crunch Fitness</string>
+		<key>latitude</key>
+		<real>34.097511</real>
+		<key>longitude</key>
+		<real>-118.365181</real>
+		<key>distance</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Snap Fitness</string>
+		<key>latitude</key>
+		<real>34.116171</real>
+		<key>longitude</key>
+		<real>-118.157313</real>
+		<key>distance</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

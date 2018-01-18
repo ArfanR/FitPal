@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09C445EA-E9CF-483E-B611-4631F84E0134</string>
+	<key>IDESourceControlProjectName</key>
+	<string>inb348</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>690A5840-BA41-446E-BE3E-B18205F811D1</key>
+		<string>https://github.com/reoim/inb348.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>inb348.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>690A5840-BA41-446E-BE3E-B18205F811D1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/reoim/inb348.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>690A5840-BA41-446E-BE3E-B18205F811D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>690A5840-BA41-446E-BE3E-B18205F811D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>inb348</string>
+		</dict>
+	</array>
+</dict>
+</plist>
